@@ -49,3 +49,6 @@ google-cloud-sdk/
 
 # Logs
 *.log
+
+# Claude guidance files
+CLAUDE.md
